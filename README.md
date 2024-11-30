@@ -35,6 +35,7 @@ cd projetoa3
 	3.	Instale as dependências:
 
 npm install
+npm install react-router-dom
 
 	4.	Inicie o servidor de desenvolvimento:
 
