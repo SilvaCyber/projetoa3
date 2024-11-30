@@ -51,4 +51,4 @@ Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para usá-lo e modificá-lo como desejar.
 
-?? Desenvolvido com carinho e propósito por Igor Menezes,  Kaique Brito, Gabriel Passos e Kaê Patrício
+Desenvolvido com carinho e propósito por Igor Menezes,  Kaique Brito, Gabriel Passos e Kaê Patrício
