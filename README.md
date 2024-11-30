@@ -8,10 +8,10 @@ O **Pet Verde** busca promover práticas sustentáveis no cuidado com os pets, o
 
 ## Funcionalidades
 
-- ?? **Catálogo de produtos**: Assinaturas eco-friendly para pets.
-- ?? **Serviços sustentáveis**: Informações sobre serviços como banho e tosa com economia de água.
-- ?? **Blog educativo**: Artigos sobre cuidados com os pets e práticas sustentáveis.
-- ?? **Integração com ODS**: Design e conteúdo alinhados aos Objetivos de Desenvolvimento Sustentável da ONU.
+- **Catálogo de produtos**: Assinaturas eco-friendly para pets.
+- **Serviços sustentáveis**: Informações sobre serviços como banho e tosa com economia de água.
+- **Blog educativo**: Artigos sobre cuidados com os pets e práticas sustentáveis.
+- **Integração com ODS**: Design e conteúdo alinhados aos Objetivos de Desenvolvimento Sustentável da ONU.
 
 ## Tecnologias Utilizadas
 
