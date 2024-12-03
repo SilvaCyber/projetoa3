@@ -34,13 +34,16 @@ cd projetoa3
 
 	3.	Instale as dependências:
 
-npm install
+- npm install
+- npm install react-router-dom
 
 	4.	Inicie o servidor de desenvolvimento:
 
 npm start
 
 O projeto estará disponível em http://localhost:3000.
+
+link do firebase: https://console.firebase.google.com/u/0/project/projetoa3-cd505/overview?hl=pt-br&fb_gclid=CjwKCAiA6aW6BhBqEiwA6KzDcy5eetBYyLTrmL5XNnRm-i6yGk2Tk053KaZEYNV--xt1qHeBio-MqhoC3iYQAvD_BwE
 
 Contribuindo com o Projeto
 
@@ -50,4 +53,4 @@ Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para usá-lo e modificá-lo como desejar.
 
-?? Desenvolvido com carinho e propósito por Igor Menezes,  Kaique Brito, Gabriel Passos e Kaê Patrício
+Desenvolvido com carinho e propósito por Igor Menezes,  Kaique Brito, Gabriel Passos e Kaê Patrício
