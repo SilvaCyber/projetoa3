@@ -1,5 +1,5 @@
 {
-  "name": "prpjetoa3",
+  "name": "projetoa3",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,7 +7,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "firebase": "^11.0.2",
-    "prpjetoa3": "file:",
+    "projetoa3": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.0.1",

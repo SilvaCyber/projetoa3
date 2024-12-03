@@ -17,7 +17,7 @@ importers:
       '@testing-library/user-event':
         specifier: ^13.5.0
         version: 13.5.0(@testing-library/dom@8.20.1)
-      prpjetoa3:
+      projetoa3:
         specifier: 'file:'
         version: file:(@babel/plugin-syntax-flow@7.26.0(@babel/core@7.26.0))(@babel/plugin-transform-react-jsx@7.25.9(@babel/core@7.26.0))(@testing-library/dom@8.20.1)(@types/babel__core@7.20.5)(eslint@8.57.1)(type-fest@0.21.3)(typescript@4.9.5)
       react:
