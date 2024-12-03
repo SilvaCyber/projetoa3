@@ -36,6 +36,7 @@ cd projetoa3
 
 - npm install
 - npm install react-router-dom
+- arquivos do node_modules serao necessarios
 
 	4.	Inicie o servidor de desenvolvimento:
 
